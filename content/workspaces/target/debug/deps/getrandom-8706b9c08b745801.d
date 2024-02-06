@@ -1,0 +1,12 @@
+/home/popich/Scripts/rust/rust_book/content/workspaces/target/debug/deps/getrandom-8706b9c08b745801.rmeta: /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/lib.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/error.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/util.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/error_impls.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/util_libc.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/use_file.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/lazy.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/linux_android.rs
+
+/home/popich/Scripts/rust/rust_book/content/workspaces/target/debug/deps/getrandom-8706b9c08b745801.d: /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/lib.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/error.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/util.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/error_impls.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/util_libc.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/use_file.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/lazy.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/linux_android.rs
+
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/lib.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/error.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/util.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/error_impls.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/util_libc.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/use_file.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/lazy.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.12/src/linux_android.rs:

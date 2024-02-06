@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"profiles":[["impl Freeze for <a class=\"enum\" href=\"profiles/kinds/enum.PrimaryColor.html\" title=\"enum profiles::kinds::PrimaryColor\">PrimaryColor</a>",1,["profiles::kinds::PrimaryColor"]],["impl Freeze for <a class=\"enum\" href=\"profiles/kinds/enum.SecondaryColor.html\" title=\"enum profiles::kinds::SecondaryColor\">SecondaryColor</a>",1,["profiles::kinds::SecondaryColor"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

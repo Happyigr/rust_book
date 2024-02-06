@@ -1,0 +1,1 @@
+/home/popich/Scripts/rust/rust_book/content/workspaces/target/debug/adder: /home/popich/Scripts/rust/rust_book/content/workspaces/add_one/src/lib.rs /home/popich/Scripts/rust/rust_book/content/workspaces/adder/src/main.rs
