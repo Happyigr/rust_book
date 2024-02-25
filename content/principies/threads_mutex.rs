@@ -17,7 +17,7 @@ fn main() {
 
     println!("m = {:?}", m);
 
-    // there can be a Deadlock, when to Mutex trying to unlock the Mutex in two traits
+    // there can be a Deadlock, when to Mutex trying to unlock the Mutex in two threads
     let counter = Arc::new(Mutex::new(0));
     let mut handles = vec![];
 

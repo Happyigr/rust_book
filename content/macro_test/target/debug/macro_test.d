@@ -1,0 +1,1 @@
+/home/popich/Scripts/rust/rust_book/content/macro_test/target/debug/macro_test: /home/popich/Scripts/rust/rust_book/content/hello_macro/hello_macro_derive/src/lib.rs /home/popich/Scripts/rust/rust_book/content/hello_macro/src/lib.rs /home/popich/Scripts/rust/rust_book/content/macro_test/src/main.rs

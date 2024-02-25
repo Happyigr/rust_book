@@ -1,0 +1,12 @@
+/home/popich/Scripts/rust/rust_book/content/hello_macro/hello_macro_derive/target/debug/deps/proc_macro2-035de8aef96f7c78.rmeta: /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/lib.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/marker.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/parse.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/rcvec.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/detection.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/fallback.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/extra.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/wrapper.rs
+
+/home/popich/Scripts/rust/rust_book/content/hello_macro/hello_macro_derive/target/debug/deps/proc_macro2-035de8aef96f7c78.d: /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/lib.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/marker.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/parse.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/rcvec.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/detection.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/fallback.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/extra.rs /home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/wrapper.rs
+
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/lib.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/marker.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/parse.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/rcvec.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/detection.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/fallback.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/extra.rs:
+/home/popich/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.78/src/wrapper.rs:
